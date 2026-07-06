@@ -1,10 +1,10 @@
 # SkidMenu
 
-A BepInEx IL2CPP mod menu for Among Us. SkidMenu combines a large number of public features from various Among Us cheat menus (such as MalumMenu, Hydra, and ElysiumModMenu), though not everything here is skidded. Some features are original and just got added because they seemed like a fun idea, like the notification system.
+A BepInEx IL2CPP mod menu for Among Us. SkidMenu combines a large number of public features from various Among Us cheat menus (such as MalumMenu, Hydra, ElysiumModMenu, Hyper Menu), though not everything here is skidded. Some features are original and just got added because they seemed like a fun idea, like the notification system, kill aura, votekick and many other stuff.
 
 **Created by SNOWHAXX**
 
-**Current build:** `1.0.2` (Stable)
+**Current build:** `1.0.3` (Stable)
 
 > This build is labeled Stable. That tho doesnt mean that nothing will break. It just means that no errors occured while playing for long time. Some functions may break mid-game, cause disconnects, or behave unexpectedly. This is normal given how many features are packed in.
 
@@ -31,35 +31,36 @@ Running a different version than the ones above isn't recommended, you'll get a 
 
 1. Install BepInEx (IL2CPP) for Among Us.
 2. Drop `SkidMenu.dll` into your `BepInEx/plugins` folder.
-3. Launch Among Us. Press Delete (default, configurable) to open the menu.
+3. Launch Among Us. Press Delete to open the menu.
 
 ## Features
 
-The menu is split across the following tabs:
+The menu is split across the following tabs (not all features that are in menu are in this list):
 
-- Movement: NoClip, invert controls, speed modifier, teleport (to cursor, to player, to fixed map locations)
-- Self: Set color, rainbow, task animations, ladder cooldown, unlimited meetings, chat theme/font customization
-- ESP: see roles, ghosts, player info,, notifications, votes, lobby info, no shadows
-- Roles: fake roles, fake alive, kill aura/reach, vanish, tracking, vents
-- Players: player targeted actions and info, teleport, murder, watch, copy info
-- Ship: door control, meetings, body reports, fake tasks, unlock vents
-- Sabotage: sabotage triggers, door menu, system manipulation
-- Chat: chat unlocks, extended chat, chat history, chat sender (manual spam and trigger based messages on join, death, meeting, kill, and ejection)
-- Animations: task animations
-- Console: in game event log (kills, vents, phantom vanishes, shapeshifts, sabotages, meetings, ejections, votes, votekicks, chat, disconnects, joins, and more)
-- Host: host only tools (disable sabotages, meetings, cameras, pre-game role forcing, disco party, level blocking, kill all, force start, end game)
-- AutoHost: automatic lobby hosting and match starting
-- Fun Ban Exploit: a single ban related exploit
-- Schizo/FakeSab: fake sabotage spam
-- Passive: anti-overload, unlock features, free cosmetics, penalty avoidance, cosmetic randomization
-- Troll: troll stuff such as disabling vents, door troller, block sabotages, auto report bodies
-- Votekick: votekick players
-- Protections: client side hardening against malicious hosts and players (DTLS, overload protection, ladder and vent validation, anti exploits)
+- Movement: NoClip, Invert controls, Lag Compensation, Speed modifier, Teleport (to cursor, to player, to fixed map locations)
+- Self: Set color, Load Info, Rainbow, Task animations, Ladder cooldown, Unlimited meetings, Chat theme/Font customization
+- ESP: See Roles, Ghosts, Player info, Notifications, Votes, lobby info, no shadows, Zoom
+- Roles: Fake Roles, Fake Alive, kill aura/reach, Tracking, Vents, Sabotage, Infinite Protect Range
+- Players: Player targeted actions and Info, Teleport, Murder, Watch, Copy Info, Protect, Save Info, Copy Player
+- Ship: Door Control, Meetings, Body Reports, Fake Tasks, Unlock Vents, Fake Tasks
+- Sabotage: Sabotage Triggers, Doors, Spam Doors, Spam Fix All, Spam All
+- Chat: Chat unlocks, Extended Chat, Chat History, Chat sender (Manual spam and trigger based messages on join, death, meeting, kill, and ejection)
+- Animations: Task animations, thats all
+- Console: In game event log (kills, vents, phantom vanishes, shapeshifts, sabotages, meetings, ejections, votes, votekicks, chat, disconnects, joins, and more)
+- Host: Host only tools (Disable Sabotages, Meetings, Cameras, pre-game role forcing, Disco party, Kill all, Force Start, END Game, Vote Immune)
+- AutoHost: Automatic Lobby Hosting and Match Starting
+- Fun Ban Exploit: A single ban related exploit that can be used to ban SOME players while in-game.
+- Schizo/FakeSab: Fake Sabotage Spam (Doors and Reactor)
+- Passive: Anti-overload, Unlock features, Free Cosmetics, Penalty Avoidance, Auto Return After Match, Copy code on Disconnect
+- Troll: troll stuff such as Disabling Vents, Door troller, Block Sabotages, Auto Report Bodies and a Delay Setting for it
+- Votekick: Votekick Players, Votekick all, Spam Votekick
+- Protections: client side hardening against malicious hosts and players (DTLS, overload protection, ladder validation, anti exploits)
 - Anticheat: RPC validation, known mod detection, punishments, max level
-- Dating Shit: lobby browser filters for lobbies that could be probably used as dating lobbies, extended lobby list
-- Modes: RGB, stealth, panic
-- Settings/Config: save and load your profile
-- Info: about, disclaimer, keybinds reference
+- Spoofing: Spoof level, platform, name, Randomizers
+- Lobby Finding: lobby browser filters for lobbies that could be probably used as dating lobbies to troll the adults who e-sex on among us, extended lobby list
+- Modes: RGB, Panic mode
+- Settings/Config: save and load your profile, menu size, max fps
+- Info: About, Disclaimer, Keybinds
 
 ## Keybinds
 
@@ -89,4 +90,4 @@ Use Save to Profile / Load from Profile in the Config tab to not set the same se
 
 ## About the creator
 
-Active on Discord as snowhaxx, and sometimes around on discord.gg/XNmXUtPvGC. That server isn't owned by me and I don't personally know the people there, I'm just sometimes active on it. SkidMenu currently has no official Discord server.
+Active on Discord as snowhaxx, and sometimes around on discord.gg/antidater. That server isn't owned by me and I don't personally know the people there, I'm just sometimes active on it. SkidMenu currently has no official Discord server.
