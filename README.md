@@ -1,6 +1,6 @@
 # SkidMenu
 
-A BepInEx IL2CPP mod menu for Among Us. SkidMenu combines a large number of public features from various Among Us cheat menus (such as MalumMenu, Hydra, ElysiumModMenu, Hyper Menu), though not everything here is skidded. Some features are original and just got added because they seemed like a fun idea, like the notification system, kill aura, votekick and many other stuff.
+A BepInEx IL2CPP mod menu for Among Us. SkidMenu combines a large number of public features from various Among Us cheat menus (such as MalumMenu, Hydra, ElysiumModMenu, Hyper Menu), though not everything here is skidded. Some features are original and just got added because they seemed like a fun idea, like the notifications, kill aura, votekick, lag compensation, instant vote, load/save info, spoof level/platform/name, full randomizer, chat sender and many other stuff.
 
 **Created by SNOWHAXX**
 
@@ -16,7 +16,7 @@ SkidMenu is not affiliated with, endorsed by, or sponsored by Innersloth in any 
 
 ## Why is it closed source
 
-Honestly, there's no big reason behind it. Part of it is that I'm using this project as a way to learn a bit of reverse engineering along the way, and keeping it closed source is just part of that.
+Honestly, there's no big reason behind it. Part of it is that I'm using this project as a way to learn a bit of reverse engineering along the way, and keeping it closed source is just part of that. But after some time i will make it Open-Source
 
 ## Compatible Among Us versions
 
