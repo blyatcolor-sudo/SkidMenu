@@ -1,12 +1,14 @@
 # SkidMenu
 
-A BepInEx IL2CPP mod menu for Among Us. SkidMenu combines a large number of public features from various Among Us cheat menus (such as MalumMenu, Hydra, ElysiumModMenu, Hyper Menu), though not everything here is skidded. Some features are original and just got added because they seemed like a fun idea, like the notifications, kill aura, votekick, lag compensation, instant vote, load/save info, spoof level/platform/name, full randomizer, chat sender and many other stuff.
+A BepInEx IL2CPP mod menu for Among Us. SkidMenu combines a large number of public features from various Among Us cheat menus (such as MalumMenu, Hydra, ElysiumModMenu, Hyper Menu), though not everything here is skidded. Some features are original and just got added because they seemed like a fun idea, like the notification system, kill aura, votekick, lag compensation, instant vote, load/save info, spoof level/platform/name, full randomizer, chat sender and many other stuff.
 
 **Created by SNOWHAXX**
 
-**Current build:** `1.0.3` (Stable)
+**Current build:** `1.0.4` (Stable)
 
-> This build is labeled Stable. That tho doesnt mean that nothing will break. It just means that no errors occured while playing for long time. Some functions may break mid-game, cause disconnects, or behave unexpectedly. This is normal given how many features are packed in.
+![SkidMenu in lobby]("image in lobby.png")
+
+> This build is labeled Stable. That tho doesnt mean that nothing will break. It just means that no errors occured while playing for long time. Some functions may break mid-game, cause disconnects, or behave like shit. This is normal given how many features are packed in.
 
 ## Use this responsibly
 
@@ -16,7 +18,7 @@ SkidMenu is not affiliated with, endorsed by, or sponsored by Innersloth in any 
 
 ## Why is it closed source
 
-Honestly, there's no big reason behind it. Part of it is that I'm using this project as a way to learn a bit of reverse engineering along the way, and keeping it closed source is just part of that. But after some time i will make it Open-Source
+Honestly, there's no big reason behind it. Part of it is that I'm using this project as a way to learn a bit of reverse engineering along the way, and keeping it closed source is just part of that. But after some time i will make it Open-Source.
 
 ## Compatible Among Us versions
 
@@ -35,28 +37,28 @@ Running a different version than the ones above isn't recommended, you'll get a 
 
 ## Features
 
-The menu is split across the following tabs (not all features that are in menu are in this list):
+The menu is split into the following tabs and features (this isn't a full list of everything in the menu).
 
-- Movement: NoClip, Invert controls, Lag Compensation, Speed modifier, Teleport (to cursor, to player, to fixed map locations)
-- Self: Set color, Load Info, Rainbow, Task animations, Ladder cooldown, Unlimited meetings, Chat theme/Font customization
-- ESP: See Roles, Ghosts, Player info, Notifications, Votes, lobby info, no shadows, Zoom
-- Roles: Fake Roles, Fake Alive, kill aura/reach, Tracking, Vents, Sabotage, Infinite Protect Range
+- Movement: NoClip, Invert controls, Lag Compensation, Speed modifier, Teleport (to cursor, to player, to map locations)
+- Self: Set color, Snipe Color, Rainbow, Body Type, Load Info, Task animations, Ladder cooldown, Unlimited meetings, Chat theme/Font customization
+- ESP: See Roles, Ghosts, Phantoms, Player info, Notifications, Votes, Lobby Info, No Shadows, Zoom, Freecam
+- Roles: Fake Roles, Fake Alive, Kill Aura/Reach, Tracking, Vents, Sabotage, Infinite Protect Range
 - Players: Player targeted actions and Info, Teleport, Murder, Watch, Copy Info, Protect, Save Info, Copy Player
-- Ship: Door Control, Meetings, Body Reports, Fake Tasks, Unlock Vents, Fake Tasks
-- Sabotage: Sabotage Triggers, Doors, Spam Doors, Spam Fix All, Spam All
-- Chat: Chat unlocks, Extended Chat, Chat History, Chat sender (Manual spam and trigger based messages on join, death, meeting, kill, and ejection)
+- Ship: Doors Menu, Meetings, Body Reports, Fake Tasks, Unlock Vents, Sabotages
+- Sabotage: Sabotage Triggers, Close Doors, Close All Doors, Spam Fix All Sabotages, Spam All Sabotages
+- Chat: Chat unlocks, Extended Chat, Chat History, Chat sender (Manual Spam and Trigger based Messages on Join, Death, Meeting, Kill, and Ejection)
 - Animations: Task animations, thats all
-- Console: In game event log (kills, vents, phantom vanishes, shapeshifts, sabotages, meetings, ejections, votes, votekicks, chat, disconnects, joins, and more)
-- Host: Host only tools (Disable Sabotages, Meetings, Cameras, pre-game role forcing, Disco party, Kill all, Force Start, END Game, Vote Immune)
+- Console: In game event log (kills, vents, phantom vanishes, shapeshifts, sabotages, meetings, ejections, votes, votekicks, chat, disconnects, joins, messages, and more)
+- Host: Host only tools (Disable Sabotages, Meetings, Cameras, pre-game role forcing, Disco party, Kill all, Force Start, END Game, Vote Immune, Protect)
 - AutoHost: Automatic Lobby Hosting and Match Starting
 - Fun Ban Exploit: A single ban related exploit that can be used to ban SOME players while in-game.
 - Schizo/FakeSab: Fake Sabotage Spam (Doors and Reactor)
 - Passive: Anti-overload, Unlock features, Free Cosmetics, Penalty Avoidance, Auto Return After Match, Copy code on Disconnect
-- Troll: troll stuff such as Disabling Vents, Door troller, Block Sabotages, Auto Report Bodies and a Delay Setting for it
-- Votekick: Votekick Players, Votekick all, Spam Votekick
+- Troll: Troll stuff such as Disabling Vents, Door troller, Block Sabotages, Auto Report Bodies and a Delay Setting for it
+- Votekick: Votekick Players, Votekick all, Auto Votekick All, Crews, Imps, Host, Finish the Kick
 - Protections: client side hardening against malicious hosts and players (DTLS, overload protection, ladder validation, anti exploits)
-- Anticheat: RPC validation, known mod detection, punishments, max level
-- Spoofing: Spoof level, platform, name, Randomizers
+- Anticheat: RPC validation, Blacklist, known mod detection, punishments, max level
+- Spoofing: Spoof Level, Platform, Name, Randomizers
 - Lobby Finding: lobby browser filters for lobbies that could be probably used as dating lobbies to troll the adults who e-sex on among us, extended lobby list
 - Modes: RGB, Panic mode
 - Settings/Config: save and load your profile, menu size, max fps
@@ -90,4 +92,6 @@ Use Save to Profile / Load from Profile in the Config tab to not set the same se
 
 ## About the creator
 
-Active on Discord as snowhaxx. SkidMenu currently has no official Discord server.
+Active on Discord as snowhaxx. We now have an official SkidMenu Discord server where you can report bugs, suggest features, or just hang out:
+
+**[Join the Discord](https://discord.gg/zgwTD4FFFx)**
