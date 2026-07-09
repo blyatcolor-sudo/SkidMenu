@@ -90,4 +90,4 @@ Use Save to Profile / Load from Profile in the Config tab to not set the same se
 
 ## About the creator
 
-Active on Discord as snowhaxx, and sometimes around on discord.gg/antidater. That server isn't owned by me and I don't personally know the people there, I'm just sometimes active on it. SkidMenu currently has no official Discord server.
+Active on Discord as snowhaxx. SkidMenu currently has no official Discord server.
