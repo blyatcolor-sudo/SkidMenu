@@ -4,7 +4,7 @@ A BepInEx IL2CPP mod menu for Among Us. SkidMenu combines a large number of publ
 
 **Created by SNOWHAXX**
 
-**Current build:** `1.0.4` (Stable)
+**Current build:** `1.0.5` (Stable)
 
 ![SkidMenu in lobby](image%20in%20lobby.png)
 
@@ -47,9 +47,9 @@ The menu is split into the following tabs and features (this isn't a full list o
 - Ship: Doors Menu, Meetings, Body Reports, Fake Tasks, Unlock Vents, Sabotages
 - Sabotage: Sabotage Triggers, Close Doors, Close All Doors, Spam Fix All Sabotages, Spam All Sabotages
 - Chat: Chat unlocks, Extended Chat, Chat History, Chat sender (Manual Spam and Trigger based Messages on Join, Death, Meeting, Kill, and Ejection)
-- Animations: Task animations, thats all
+- Animations: Task animations, Skip Shhh Animation, Skil Roles Reveal
 - Console: In game event log (kills, vents, phantom vanishes, shapeshifts, sabotages, meetings, ejections, votes, votekicks, chat, disconnects, joins, messages, and more)
-- Host: Host only tools (Disable Sabotages, Meetings, Cameras, pre-game role forcing, Disco party, Kill all, Force Start, END Game, Vote Immune, Protect)
+- Host: Host only tools (Disable Sabotages, Meetings, Cameras, pre-game role forcing, live role forcing, Disco party, Kill all, Force Start, END Game, Vote Immune, Protect)
 - AutoHost: Automatic Lobby Hosting and Match Starting
 - Fun Ban Exploit: A single ban related exploit that can be used to ban SOME players while in-game.
 - Schizo/FakeSab: Fake Sabotage Spam (Doors and Reactor)
