@@ -18,7 +18,7 @@ SkidMenu is not affiliated with, endorsed by, or sponsored by Innersloth in any 
 
 ## Why is it closed source
 
-Honestly, there's no big reason behind it. Part of it is that I'm using this project as a way to learn a bit of reverse engineering along the way, and keeping it closed source is just part of that. But after some time i will make it Open-Source.
+Honestly, there's no big reason behind it. Part of it is that I'm using this project to learn a bit of reverse engineering, and keeping it closed source is just part of that. I'll make it open source later on. Spoiler: it's obfuscated with ConfuserEx.
 
 ## Compatible Among Us versions
 
