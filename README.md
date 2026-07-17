@@ -4,7 +4,7 @@ A BepInEx IL2CPP mod menu for Among Us. SkidMenu combines a large number of publ
 
 **Created by SNOWHAXX**
 
-**Current build:** `1.0.5` (Stable)
+**Current build:** `1.0.6` (Stable)
 
 ![SkidMenu in lobby](image%20in%20lobby.png)
 
@@ -16,9 +16,9 @@ SkidMenu is meant for private lobbies with friends who know you're using it and 
 
 SkidMenu is not affiliated with, endorsed by, or sponsored by Innersloth in any way. Whatever you choose to do with this menu, including any bans, account issues, or other consequences, is entirely your own responsibility, not the menu's.
 
-## Why is it closed source
+## Why Closed Source
 
-Honestly, there's no big reason behind it. Part of it is that I'm using this project to learn a bit of reverse engineering, and keeping it closed source is just part of that. I'll make it open source later on. Spoiler: it's obfuscated with ConfuserEx.
+Honestly, there's no big reason behind it. Part of it is that I'm using this project to learn a bit of reverse engineering, and keeping it closed source is just part of that. I'll make it open source sooner or later . Spoiler: it's obfuscated with ConfuserEx.
 
 ## Compatible Among Us versions
 
@@ -39,18 +39,18 @@ Running a different version than the ones above isn't recommended, you'll get a 
 
 The menu is split into the following tabs and features (this isn't a full list of everything in the menu).
 
-- Movement: NoClip, Invert controls, Lag Compensation, Speed modifier, Teleport (to cursor, to player, to map locations)
+- Movement: NoClip, Invert controls, Lag Compensation, Speed modifier, Current Speed Changer, Teleport (to cursor, to player, to map locations)
 - Self: Set color, Snipe Color, Rainbow, Body Type, Load Info, Task animations, Ladder cooldown, Unlimited meetings, Chat theme/Font customization
 - ESP: See Roles, Ghosts, Phantoms, Player info, Notifications, Votes, Lobby Info, No Shadows, Zoom, Freecam
-- Roles: Fake Roles, Fake Alive, Kill Aura/Reach, Tracking, Vents, Sabotage, Infinite Protect Range
+- Roles: Fake Roles, Fake Alive, Kill Aura/Reach, Tracking, Vents, Sabotage, Instant Pet, Infinite Protect Range
 - Players: Player targeted actions and Info, Teleport, Murder, Watch, Copy Info, Protect, Save Info, Copy Player
 - Ship: Doors Menu, Meetings, Body Reports, Fake Tasks, Unlock Vents, Sabotages
 - Sabotage: Sabotage Triggers, Close Doors, Close All Doors, Spam Fix All Sabotages, Spam All Sabotages
 - Chat: Chat unlocks, Extended Chat, Chat History, Chat sender (Manual Spam and Trigger based Messages on Join, Death, Meeting, Kill, and Ejection)
-- Animations: Task animations, Skip Shhh Animation, Skil Roles Reveal
+- Animations: Task animations, Skip Shhh Animation, Skip Roles Reveal
 - Console: In game event log (kills, vents, phantom vanishes, shapeshifts, sabotages, meetings, ejections, votes, votekicks, chat, disconnects, joins, messages, and more)
 - Host: Host only tools (Disable Sabotages, Meetings, Cameras, pre-game role forcing, live role forcing, Disco party, Kill all, Force Start, END Game, Vote Immune, Protect)
-- AutoHost: Automatic Lobby Hosting and Match Starting
+- AutoHost: Automatic Match Starting
 - Fun Ban Exploit: A single ban related exploit that can be used to ban SOME players while in-game.
 - Schizo/FakeSab: Fake Sabotage Spam (Doors and Reactor)
 - Passive: Anti-overload, Unlock features, Free Cosmetics, Penalty Avoidance, Auto Return After Match, Copy code on Disconnect
@@ -86,9 +86,9 @@ The menu is split into the following tabs and features (this isn't a full list o
 
 All keybinds can be disabled from the Info tab.
 
-## Saving your setup
+## Saving Your Setup
 
-Use Save to Profile / Load from Profile in the Config tab to not set the same settings over again in different sessions.
+Use Save to Profile / Load from Profile in the Config tab to preserve your settings across sessions.
 
 ## About the creator
 
