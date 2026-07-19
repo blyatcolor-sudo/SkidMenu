@@ -12,7 +12,7 @@ A BepInEx IL2CPP mod menu for Among Us. SkidMenu combines a large number of publ
 
 ## Use this responsibly
 
-SkidMenu is meant for private lobbies with friends who know you're using it and are fine with it. It is not meant to be used in public lobbies against strangers who never agreed to play against someone with a cheat menu. Using it that way ruins the game for people who just wanted a normal match.
+SkidMenu is meant for private lobbies or lobbies with friends who know you're using it and are fine with it. It is not meant to be used in public lobbies against strangers who never agreed to play against someone with a cheat menu. Using it that way ruins the game for people who just wanted a normal match.
 
 SkidMenu is not affiliated with, endorsed by, or sponsored by Innersloth in any way. Whatever you choose to do with this menu, including any bans, account issues, or other consequences, is entirely your own responsibility, not the menu's.
 
