@@ -92,6 +92,6 @@ Use Save to Profile / Load from Profile in the Config tab to preserve your setti
 
 ## About the creator
 
-Active on Discord as snowhaxx. We now have an official SkidMenu Discord server where you can report bugs, suggest features, or just hang out:
+We now have an official SkidMenu Discord server where you can report bugs, suggest features, or just hang out:
 
 **[Join the Discord](https://discord.gg/zgwTD4FFFx)**
