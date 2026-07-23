@@ -1,18 +1,18 @@
 # SkidMenu
 
-A BepInEx IL2CPP mod menu for Among Us. SkidMenu combines a large number of public features from various Among Us cheat menus (Such as MalumMenu, Hydra, ElysiumModMenu, Hyper Menu), though not everything here is skidded. Some features are original and just got added because they seemed like a fun idea, like the notification system, kill aura, votekick, lag compensation, instant vote, instant pet, load/save info, spoof level/platform/name, full randomizer, chat sender and many other stuff.
+A BepInEx IL2CPP mod menu for Among Us. SkidMenu combines a large number of public features from various Among Us cheat menus (such as MalumMenu, Hydra, ElysiumModMenu, Hyper Menu), though not everything here is skidded. Some features are original and just got added because they seemed like a fun idea, like the notification system, kill aura, votekick, lag compensation, instant vote, load/save info, spoof level/platform/name, full randomizer, chat sender and many other stuff.
 
 **Created by SNOWHAXX**
 
-**Current build:** `1.0.6` (Stable)
+**Current build:** `1.1.0` (Stable)
 
 ![SkidMenu in lobby](image%20in%20lobby.png)
 
-> This build is labeled Stable. That tho doesnt mean that nothing will break. It just means that no errors occured while playing for long time. Some functions may break mid-game or behave like shit. This is normal given how many features are in the menu.
+> This build is labeled Stable. That tho doesnt mean that nothing will break. It just means that no errors occured while playing for long time. Some functions may break mid-game, cause disconnects, or behave like shit. This is normal given how many features are packed in.
 
 ## Use this responsibly
 
-SkidMenu is meant for private lobbies or lobbies with friends who know you're using it and are fine with it. It is not meant to be used in public lobbies against strangers who never agreed to play against someone with a cheat menu. Using it that way ruins the game for people who just wanted a normal match.
+SkidMenu is meant for private lobbies with friends who know you're using it and are fine with it. It is not meant to be used in public lobbies against strangers who never agreed to play against someone with a cheat menu. Using it that way ruins the game for people who just wanted a normal match.
 
 SkidMenu is not affiliated with, endorsed by, or sponsored by Innersloth in any way. Whatever you choose to do with this menu, including any bans, account issues, or other consequences, is entirely your own responsibility, not the menu's.
 
@@ -42,25 +42,26 @@ The menu is split into the following tabs and features (this isn't a full list o
 - Movement: NoClip, Invert controls, Lag Compensation, Speed modifier, Current Speed Changer, Teleport (to cursor, to player, to map locations)
 - Self: Set color, Snipe Color, Rainbow, Body Type, Load Info, Task animations, Ladder cooldown, Unlimited meetings, Chat theme/Font customization
 - ESP: See Roles, Ghosts, Phantoms, Player info, Notifications, Votes, Lobby Info, No Shadows, Zoom, Freecam
-- Roles: Fake Roles, Fake Alive, Kill Aura/Reach, Tracking, Vents, Sabotage, Instant Pet, Infinite Protect Range
-- Players: Player targeted actions and Info, Teleport, Murder, Watch, Copy Info, Protect, Save Info, Copy Player
+- Roles: Fake Roles, Fake Alive, Kill Aura/Reach, Tracking, Engineer, Sabotage, Instant Pet, Infinite Protect Range, Shapeshifter
+- Players: Player targeted actions and Info, Teleport, Murder, Watch, Shapeshift, Copy Info, Protect, Save Info, Copy Player, Ban, Kick, Teleport to Vent, Frame
 - Ship: Doors Menu, Meetings, Body Reports, Fake Tasks, Unlock Vents, Sabotages
-- Sabotage: Sabotage Triggers, Close Doors, Close All Doors, Spam Fix All Sabotages, Spam All Sabotages
-- Chat: Chat unlocks, Extended Chat, Chat History, Chat sender (Manual Spam and Trigger based Messages on Join, Death, Meeting, Kill, and Ejection)
+- Chat: Chat unlocks, Extended Chat, Chat History, Copy Message, Chat sender (Manual Spam and Trigger based Messages on Join, Death, Meeting, Kill, and Ejection)
 - Animations: Task animations, Skip Shhh Animation, Skip Roles Reveal
 - Console: In game event log (kills, vents, phantom vanishes, shapeshifts, sabotages, meetings, ejections, votes, votekicks, chat, disconnects, joins, messages, and more)
 - Host: Host only tools (Disable Sabotages, Meetings, Cameras, pre-game role forcing, live role forcing, Disco party, Kill all, Force Start, END Game, Vote Immune, Protect)
+- Host Settings: Allows u to see, edit, save and load Host settings from ur lobby and different lobbies
 - AutoHost: Automatic Match Starting
 - Fun Ban Exploit: A single ban related exploit that can be used to ban SOME players while in-game.
+- Vent Kick Exploit: Better version of Fun Ban Exploit
 - Schizo/FakeSab: Fake Sabotage Spam (Doors and Reactor)
 - Passive: Anti-overload, Unlock features, Free Cosmetics, Penalty Avoidance, Auto Return After Match, Copy code on Disconnect
-- Troll: Troll stuff such as Disabling Vents, Door troller, Block Sabotages, Auto Report Bodies and a Delay Setting for it
+- Troll: Troll stuff such as Disabling Vents, Door troller, Block Sabotages, Vent Teleporter, Auto Report Bodies and a Delay Setting for it
 - Votekick: Votekick Players, Votekick all, Auto Votekick All, Crews, Imps, Host, Finish the Kick
 - Protections: client side hardening against malicious hosts and players (DTLS, overload protection, ladder validation, anti exploits)
 - Anticheat: RPC validation, Blacklist, known mod detection, punishments, max level
 - Spoofing: Spoof Level, Platform, Name, Randomizers
 - Lobby Finding: lobby browser filters for lobbies that could be probably used as dating lobbies to troll the adults who e-sex on among us, extended lobby list
-- Modes: RGB, Panic mode
+- Modes: Streamer Mode
 - Settings/Config: save and load your profile, menu size, max fps
 - Info: About, Disclaimer, Keybinds
 
@@ -92,6 +93,6 @@ Use Save to Profile / Load from Profile in the Config tab to preserve your setti
 
 ## About the creator
 
-We now have an official SkidMenu Discord server where you can report bugs, suggest features, or just hang out:
+Active on Discord as snowhaxx. We now have an official SkidMenu Discord server where you can report bugs, suggest features, or just hang out:
 
 **[Join the Discord](https://discord.gg/zgwTD4FFFx)**
